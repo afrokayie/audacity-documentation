@@ -80,7 +80,7 @@ const config = {
       },
     ],
       // Replace with your project's social card
-      image: 'img/Group2.svg',
+      image: 'img/social-card.png',
       navbar: {
         title: 'AudaCity',
         logo: {
