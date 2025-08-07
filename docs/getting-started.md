@@ -10,9 +10,9 @@ AudaCity offers cryptonative investors access to real-world, asset-backed yield 
 
 ### Steps to Begin:
 
-1. **Create a Wallet** – Use any EVM-compatible wallet (e.g. MetaMask, Rabby).
+1. **Create a Wallet** – Use any EVM-compatible wallet (e.g. MetaMask).
 2. **KYC & Whitelisting** – Complete onboarding to access truck pool tokens.
-3. **Deposit Stablecoins** – Supported: USDC (Polygon / Plume Network)
+3. **Deposit Stablecoins** – Supported: USDT (base) or pUSD (Plume Network)
 4. **Buy into a Truck Pool** – View current pools, yields, and operators.
 5. **Track Yield** – Earnings are distributed monthly in stablecoins.
 

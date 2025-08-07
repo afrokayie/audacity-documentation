@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## Tokenizing a Truck  
 - Each truck is legally wrapped in an SPV (Special Purpose Vehicle)  
-- An ERC-20 token represents fractional ownership in the poo    
+- An ERC-20 token represents fractional ownership in the pool    
 
 ## Capital Pooling  
 - Investors stake USDC to co-purchase trucks  
