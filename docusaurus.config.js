@@ -25,7 +25,7 @@ const config = {
   organizationName: 'AudaCity', // Usually your GitHub org/user name.
   projectName: 'AudaCity', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -88,7 +88,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+         /* {to: '/blog', label: 'Blog', position: 'left'},*/
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
