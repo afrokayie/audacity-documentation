@@ -73,6 +73,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+      {
+        name: 'description',
+        content: 'AudaCity: Tokenizing commercial trucks to deliver real-world yield onchain.',
+      },
+    ],
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
