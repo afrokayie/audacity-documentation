@@ -1,0 +1,54 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/* Change font for the homepage hero title and subtitle */
+/*
+.hero__title,
+.hero__subtitle {
+  font-family: 'Poppins', sans-serif !important;
+}
+*/
+
+:root {
+  --ifm-font-family-base: 'Libertinus', sans-serif;
+  --ifm-color-primary: #0C52FF;
+  --ifm-color-primary-dark: #0B4AE6;
+  --ifm-color-primary-darker: #0A44D1;
+  --ifm-color-primary-light: #2D6AFF;
+  --ifm-color-primary-lighter: #4F85FF;
+
+  --ifm-background-color: #F1F7FC;
+  --ifm-navbar-background-color: #141415;
+  --ifm-footer-background-color: #141415;
+  --ifm-color-content: #141415;
+  --ifm-link-color: #0C52FF;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #5A8DFF;  /* Softer, more appealing blue */
+  --ifm-color-primary-dark: #4A7EE6;
+  --ifm-color-primary-darker: #3F71D1;
+  --ifm-color-primary-darkest: #335DB0;
+  --ifm-color-primary-light: #7AA2FF;
+  --ifm-color-primary-lighter: #99B8FF;
+  --ifm-color-primary-lightest: #B8CEFF;
+
+  --ifm-background-color: #141415;
+  --ifm-color-content: #F1F7FC;
+  --ifm-navbar-background-color: #141415;
+  --ifm-footer-background-color: #141415;
+  --ifm-link-color: #5A8DFF;
+
+  --docusaurus-highlighted-code-line-bg: rgba(90, 141, 255, 0.2);
+}
+
