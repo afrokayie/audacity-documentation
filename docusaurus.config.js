@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AudaCity',
-  tagline: 'Docs for AudaCity: tokenized trucks, real-world yield, and the future of logistics.',
+  tagline: 'Tokenizing trucks, powering logistics.',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
@@ -76,7 +76,7 @@ const config = {
       metadata: [
       {
         name: 'description',
-        content: 'AudaCity: Tokenizing commercial trucks to deliver real-world yield onchain.',
+        content: 'AudaCity: Tokenizing trucks, powering logistics.',
       },
     ],
       // Replace with your project's social card
