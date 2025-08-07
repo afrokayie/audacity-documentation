@@ -6,8 +6,8 @@ sidebar_position: 8
 
 ## Connect with Other Users  
 - **[Discord](#)**  
-- **[Telegram](#)**  
-- **[Twitter](#)**  
+- **[Telegram](https://t.me/+Qm6dcZKcmiw3ZmVk)**  
+- **[Twitter](https://x.com/audacityonchain)**  
 
 ## Stay Updated  
 - **Newsletter:** Subscribe for platform updates.  
