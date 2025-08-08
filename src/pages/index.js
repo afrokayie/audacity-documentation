@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`AudaCity Docs`}
+      title={"AudaCity Docs"}
       description="Documentation for AudaCity — tokenized trucks, onchain yield, and logistics infrastructure.">
       <HomepageHeader />
       <main>
